@@ -1,0 +1,3 @@
+- Unit 28.4
+    - This unit seems a bit out of place as we go back to JavaScript and deal with arrays and lists
+    - We learn how to use classes to link lists and arrays in JS
